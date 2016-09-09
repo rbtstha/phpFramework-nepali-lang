@@ -33,18 +33,18 @@ $lang['cal_sep']		= "Sep";
 $lang['cal_oct']		= "Oct";
 $lang['cal_nov']		= "Nov";
 $lang['cal_dec']		= "Dec";
-$lang['cal_january']		= "January";
-$lang['cal_february']		= "February";
-$lang['cal_march']		= "March";
-$lang['cal_april']		= "April";
-$lang['cal_mayl']		= "May";
-$lang['cal_june']		= "June";
-$lang['cal_july']		= "July";
-$lang['cal_august']		= "August";
-$lang['cal_september']	= "September";
-$lang['cal_october']	= "October";
-$lang['cal_november']	= "November";
-$lang['cal_december']	= "December";
+$lang['cal_january']		= "जनवरी";
+$lang['cal_february']		= "फ्रेबुवरी";
+$lang['cal_march']		= "मार्च";
+$lang['cal_april']		= "अप्रिल";
+$lang['cal_may']		= "  मे  ";
+$lang['cal_june']		= "जुन" ;
+$lang['cal_july']		=  "जुलाई";
+$lang['cal_august']		= " अगस्ट ";
+$lang['cal_september']	= " सेप्टेम्बर ";
+$lang['cal_october']	= "अक्टोबर ";
+$lang['cal_november']	= "नोवेम्बर ";
+$lang['cal_december']	= "डिसेम्बर";
 
 
 /* End of file calendar_lang.php */
