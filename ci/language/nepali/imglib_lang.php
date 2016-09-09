@@ -1,10 +1,10 @@
 <?php
 
-$lang['imglib_source_image_required'] = "You must specify a source image in your preferences.";
-$lang['imglib_gd_required'] = "The GD image library is required for this feature.";
-$lang['imglib_gd_required_for_props'] = "Your server must support the GD image library in order to determine the image properties.";
-$lang['imglib_unsupported_imagecreate'] = "Your server does not support the GD function required to process this type of image.";
-$lang['imglib_gif_not_supported'] = "GIF images are often not supported due to licensing restrictions.  You may have to use JPG or PNG images instead.";
+$lang['imglib_source_image_required'] = " अभिरुचीबाट सोर्स तस्बिर तोक्नुहोला । ";
+$lang['imglib_gd_required'] = "यो बिशेषताको लागि जि डि लाइब्रेरी अनिबार्य छ। ";
+$lang['imglib_gd_required_for_props'] = "तस्बिर बिशेषता निर्धारण गर्न तपाईंको सर्भरले जि डि लाइब्रेरी सपोर्ट गर्नुपर्छ। ";
+$lang['imglib_unsupported_imagecreate'] = "यस प्रकारको तस्बिर कार्यवाही गर्न तपाईंको सर्भरले जि डि फोङ्सन सपोर्ट गर्नैपर्छ।";
+$lang['imglib_gif_not_supported'] = "लाइसेन्स निशेधित नियमले गर्दा जि अाइ एफ तस्बिर सपोर्ट नहुन सक्छ। तेसको लागि तपाईंले  जे.पि.जि. अथवा पि.एन.जि. तस्बिर प्रयोग गर्नुहोला।    ";
 $lang['imglib_jpg_not_supported'] = "JPG images are not supported.";
 $lang['imglib_png_not_supported'] = "PNG images are not supported.";
 $lang['imglib_jpg_or_png_required'] = "The image resize protocol specified in your preferences only works with JPEG or PNG image types.";
